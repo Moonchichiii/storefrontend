@@ -17,15 +17,15 @@ This initializes a new project using Vite, a modern frontend build tool, in the 
 
 Install and use Node.js version 20.5.0 using nvm (Node Version Manager) with these commands:
 
+nvm install stable
 
-
-`nvm install 20.5.0
-nvm use 20.5.0` 
+This is what i used:
+- nvm install 20.5.0
+- nvm use 20.5.0` 
 
 ## 3. Updating npm Globally
 
 Update npm, the Node package manager, to version 10.2.5 globally:
-
 
 
 `npm install -g npm@10.2.5` 
